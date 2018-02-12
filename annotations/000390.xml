@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>000390.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>5038</width>
+    <height>5573</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>IRONMAN</name>
+    <pose>Unsecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1206</xmin>
+      <ymin>1724</ymin>
+      <xmax>1855</xmax>
+      <ymax>4679</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>IRONMAN</name>
+    <pose>Unsecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1206</xmin>
+      <ymin>1724</ymin>
+      <xmax>1855</xmax>
+      <ymax>4679</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,4 @@
+model_checkpoint_path: "tiny-yolo-voc-1c-750"
+all_model_checkpoint_paths: "tiny-yolo-voc-1c-250"
+all_model_checkpoint_paths: "tiny-yolo-voc-1c-500"
+all_model_checkpoint_paths: "tiny-yolo-voc-1c-750"

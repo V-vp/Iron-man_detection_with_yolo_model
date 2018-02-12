@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>000289.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>825</width>
+    <height>464</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>IRONMAN</name>
+    <pose>Unsecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>315</xmin>
+      <ymin>11</ymin>
+      <xmax>594</xmax>
+      <ymax>287</ymax>
+    </bndbox>
+  </object>
+</annotation>
