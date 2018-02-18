@@ -8,5 +8,5 @@ Trained a YOLO model to detect Iron-man ....Just for Fun..
 <p>To parse a Video file use this Command:</p>
       flow --model cfg/tiny-yolo-voc-1c.cfg --load 750 --demo ironman.mp4 --gpu 1.0 --saveVideo
 <p></p>
-<p>I will add to other avengers like Hulk, Thor, Captain America to it  later..</p>
+<p>I will add to other avengers like Hulk, Thor, Captain America to it  later..For now please take a look at video.avi file in repo.</p>
 <p>Thank you For Visiting....:)</p>
